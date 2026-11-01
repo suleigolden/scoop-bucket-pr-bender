@@ -1,10 +1,10 @@
 {
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "AI-Assisted & Manual Code Review for GitHub PRs",
   "homepage": "https://prbender.com",
   "license": "MIT",
-  "url": "https://github.com/suleigolden/pr-bender-releases/releases/download/v4.0.1/PR-Bender-Setup.exe",
-  "hash": "sha256:c46865e832c9dad5a7749447ddda1a2110701331fb30420ff85b77868f536e01",
+  "url": "https://github.com/suleigolden/pr-bender-releases/releases/download/v4.0.2/PR-Bender-Setup.exe",
+  "hash": "sha256:0236e80b32c2274151c14e0c02b2d789bbbaa0031132d24554a5123cbbc1e15b",
   "installer": {
     "script": "Start-Process -Wait -FilePath \"$dir\\\\PR-Bender-Setup.exe\" -ArgumentList \"/S\""
   },
